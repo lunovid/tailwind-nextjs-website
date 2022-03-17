@@ -1,12 +1,12 @@
 const siteMetadata = {
   title: 'LunoVid',
   author: 'Saber Soleymani',
-  headerTitle: 'LunoVid website',
+  headerTitle: '',
   description: 'Focus on your idea, we provide the building blocks.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://lunovid.com',
+  siteRepo: 'https://github.com/lunovid/tailwind-nextjs-website',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
